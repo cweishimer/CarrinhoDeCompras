@@ -8,7 +8,7 @@
     "start": "node --watch src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cléber Weishimer",
   "license": "ISC",
-  "description": ""
+  "description": "Projeto de carrinho de compras utilizando Node.js e modularização ES6",
 }
